@@ -1,0 +1,12 @@
+.idea/
+.aws/
+.gcp/
+.config/
+.key/
+.test/
+.memo/
+
+# For realize
+*.exe
+/app
+/**/debug/
